@@ -1,1 +1,1 @@
-# mod-ller
+Mödüllerle ilgili bir kumanda workshop örneği
