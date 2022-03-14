@@ -1,1 +1,1 @@
-Mödüllerle ilgili bir kumanda workshop örneği
+Mödüllerle ilgili bir sayı tahmin oyunu workshop örneği
